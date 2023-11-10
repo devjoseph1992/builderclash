@@ -1,0 +1,24 @@
+.timer_inner {
+    color: white;
+    display: flex;
+    padding: 2rem;
+  }
+  
+  .timer_segment {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .divider,
+  .time {
+    font-size: 2rem;
+  }
+  
+  .diver {
+    padding: 0 2rem;
+  }
+  
+  .label {
+    font-size: 1rem;
+  }
