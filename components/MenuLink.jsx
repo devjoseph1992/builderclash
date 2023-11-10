@@ -4,7 +4,6 @@ import Link from 'next/link'
 
 const MenuLink = ({item}) => {
 
-
   return (
     <Link href={item.path}>
         <div className='flex items-center hover:bg-gray-200 text-white cursor-pointer my-4 p-3 rounded-lg inline-block'>
