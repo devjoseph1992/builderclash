@@ -33,7 +33,7 @@ const marketplace = () => {
         <div className='w-full m-auto p-4 border rounded-lg bg-[#242323] overflow-y-auto'>
           <div className='place-self-center text-center sm:text-left justify-self-start'>
           <h1 className="text-white mb-4 text-base sm:text-base text-center lg:text-base lg:leading-normal font-extrabold">
-              Comming Soon!!!
+              Coming Soon!!!
             </h1>
           </div>
         </div>
