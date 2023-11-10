@@ -85,7 +85,7 @@ const Sidebar = ({ children }) => {
           <span className='border-b-[1px] border-gray-200 w-full p-2'></span>
           {menuItems.map((cat) =>(
             <div key={cat.title}>
-              <h1 className='my-2'>{cat.title}</h1>
+              <h1 className='my-2 text-white'>{cat.title}</h1>
               {cat.list.map((item) => (
                 <MenuLink item={item} key={item.title} />
               ))}
