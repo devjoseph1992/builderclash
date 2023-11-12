@@ -2,7 +2,7 @@ import '@/styles/globals.css';
 import Sidebar from '../components/Sidebar';
 import { ThirdwebProvider, metamaskWallet } from '@thirdweb-dev/react';
 
-const activeChain = 'mumbai';
+const activeChain = 'polygon';
 
 export const metadata = {
 	title: 'Global Games',
